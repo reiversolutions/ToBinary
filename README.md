@@ -1,4 +1,4 @@
-﻿# ToPseudoLocale
+﻿# ToBinary
 A extension methods for string to change it from English to binary. Ascii binary implemented but open for extensions of other types.
 
 ## What can it be used for?
